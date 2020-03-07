@@ -25,6 +25,7 @@ namespace BR_laba1
             InitializeComponent();
         }
 	Console.Writline("");
+	Console.Writline("loool");
     }
 }
 
